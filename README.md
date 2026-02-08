@@ -1,0 +1,2 @@
+# DCGAN
+fashion mnist 
